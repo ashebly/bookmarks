@@ -1,1 +1,18 @@
-# bookmarks
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   
+</head>
+<body>
+    <div class="shortCuts">
+        <ul>
+            <li>
+                <a href="http://ui-patterns.com/">User Interface Design patterns</a>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
