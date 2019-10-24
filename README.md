@@ -4,13 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   
+    <title>Book Marks</title>
 </head>
 <body>
     <div class="shortCuts">
         <ul>
             <li>
                 <a href="http://ui-patterns.com/">User Interface Design patterns</a>
+                <a href="https://www.interaction-design.org/literature/topics/ui-design-patterns">User Interface (UI) Design Patterns</a>
             </li>
         </ul>
     </div>
